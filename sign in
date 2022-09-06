@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quizzy sign</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="styes.css">
+</head>
+<body>
+    <section>
+    <header class="home"><nav id="nav">
+        <div class="nav-center">
+        <div class="nav-header">
+    <img src = "New folder/Group 36.png" alt="logo"></div>
+    <div class = "nav-links">
+        <ul class="links">
+
+        <li class="list-item"><a href="#home">home</a></li>
+       <li class="list-item"> <a href="#About">About</a></li>
+       <li> <a href="user"><i class="fas fa-user"></i></a></li>
+        <li><button class="btn">sign in</button></li></ul>
+    </div></div></header></nav>
+    <!--picture section-->
+    <div class="p-section">
+    <img src="New folder/Homepage complete 4.png" alt="people_img">
+
+    <h1 class="ready">Ready to start ?</h1></div>
+    <div class="about-section">
+
+        <h2 style= font-family:serif;>Quizzy</h2>
+        <h3>Landing page UI Design</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br> 
+        Molestias eveniet esse, quod ad velit modi mollitia officiis <br>
+        voluptatem voluptas sequi neque maiores ex, exercitationem consectetur<br> 
+        repellendus minima perspiciatis? Ea, ipsum. </p>
+    
+        <div class ="profile-code">
+            <p>sign in above or type prfile code here</p>
+           <div> <input type="text" placeholder="profile code" ><i class="fas fa-arrow-right"></i></div>
+        </div>
+    </div>
+    <div class = "features">
+        <br><br>
+            <p class="h1-f">Quizzy comes with amazing
+            <br>features like</p><br>
+            <div class="line-p">
+        
+        <h2 class="diff-h2"><hr width="4%">Lorem, ipsum dolor sit amet consectetur adipisicing elit.<br> Facere magnam </h2>
+        
+        <h2 class="diff-h2"><hr width="4%">Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br> Laboriosam ut amet,</h2> 
+        
+        <h2 class="diff-h2"><hr width="4%">Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br> Inventore alias</h2>
+    </div>
+    <br>
+    <div class="next-feature">
+        <h1>What our clients say</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo repudiandae totam,<br> dolore sunt nemo doloribus blanditiis laudantium suscipit ab </p>
+    </div>
+    </div>
+    <br>
+    <div class="review">
+        
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. <br>ut odio velit, voluptas dolorem saepe<br> amet reprehenderit ratione error aliquam, 
+         <br>   <img  class =" img"src= "New folder/Homepage complete 4.png" alt="">
+            marv
+            abuja
+        </p>
+
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing  <br>aut odio velit, voluptas dolorem saepe<br> amet reprehenderit ratione error
+         <br>   <img class =" img"src="New folder/Homepage complete 4.png" alt="">
+            marv
+            abuja
+        </p>
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. <br> aut odio velit, voluptas dolorem saepe <br>amet reprehenderit ratione error
+           <br> <img class =" img"src="New folder/Homepage complete 4.png" alt="">
+            marv
+            abuja</p>
+        
+    </div>
+    
+    
+    <div class="footer" style="background-color: rgb(119, 117, 115);"> 
+        <h5>Need help<span style="color: blue;">click here</span></h5>
+        <p class="fp">copyright @ Quizzy 2022</p>
+        <button>can't see what is here</button>
+    </div>
+    </section>
+</body>
+</html>
